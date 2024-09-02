@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 100px;
+    height: 100vh;
+    background: linear-gradient(#d03d3d00, #d03d3d00), 
+                url('1.jpg') no-repeat center center/cover;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+.quote-container {
+    text-align: center;
+    background-color: #bad53e;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px #00000033;
+}
+
+h1 {
+    font-size: 24px;
+    color: #000000;
+}
+
+p {
+    font-size: 18px;
+    color: #464149;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #b34e00;
+}
