@@ -1,3 +1,8 @@
+
+![Screenshot 2024-09-02 at 11 45 00 PM](https://github.com/user-attachments/assets/8ab9e282-845f-48ca-9541-0230d1c78b86)
+
+
+
 # Random Quote Generator 
 
 ## Project Overview
